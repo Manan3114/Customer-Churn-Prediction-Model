@@ -11,6 +11,8 @@ This project focuses on predicting customer churn using a machine learning pipel
 - 📈 *Model Evaluation* using ROC-AUC metric (Mean CV ROC-AUC: [0.7464])
 - 🔍 *Feature Importance Analysis* for actionable business insights
 - ☁ *Google Drive Integration* for model saving and project file management
+- For training dataset , visit [Training data]([https://drive.google.com/file/d/1KcHtQx0R2PGl7c1yKdzL9te1aILh-HCc/view?usp=sharing]).
+
 
 ## 🚀 Getting Started
 
