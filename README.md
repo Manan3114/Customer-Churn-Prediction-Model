@@ -23,16 +23,17 @@ This project focuses on predicting customer churn using a machine learning pipel
 
 - Achieved a mean ROC-AUC score of *[0.7464]* using K-Fold CV.
 - Top churn predictors included:
-- *[ContentDownloadsPerMonth]*
-- *[UsagePerDollar]*
-- *[AccountAge]*
-- *[AverageViewingDuration]*
-- *[SupportTicketsPerMonth]*
-- *[MonthlyCharges]*
-- *[ViewingHoursPerWeek]*
-- *[UserRating]*
-- *[TotalCharges]*
-- *[WatchlistSize]*
+- ContentDownloadsPerMonth
+- UsagePerDollar
+- AccountAge
+- AverageViewingDuration
+- SupportTicketsPerMonth
+- MonthlyCharges
+- ViewingHoursPerWeek
+- UserRating
+- TotalCharges
+- WatchlistSize
+
 
 
 ## 📌 Dependencies
